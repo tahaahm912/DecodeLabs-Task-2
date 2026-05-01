@@ -26,3 +26,6 @@ A simple command-line Python project that helps users track monthly expenses usi
 ---
 
 ## 📁 Project Structure
+│
+├── Task 2.py # Main Python program
+└── README.md # Project documentation
